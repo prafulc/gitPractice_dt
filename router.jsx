@@ -1,3 +1,4 @@
+/* New Comment Added */
 FlowRouter.route('/',{
   name: 'home',
   subscriptions: function(){
